@@ -1,4 +1,4 @@
-# Desafio03 Toshiro Shibakita
+# Desafio 03 Toshiro Shibakita
 
 Este repositório contém a solução para o desafio proposto no Bootcamp **Santander - Linux para Iniciantes**. O objetivo do desafio é aplicar conceitos de microsserviços utilizando o **Docker** para criar e gerenciar contêineres, além de integrar o uso do MySQL como banco de dados.
 
